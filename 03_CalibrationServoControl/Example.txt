@@ -1,0 +1,9 @@
+accelOffsetX:-0.117981
+accelOffsetY:0.083936
+accelOffsetZ:-0.102413
+gyroOffsetX:0.497623
+gyroOffsetY:0.387399
+gyroOffsetZ:-0.944470
+gyroScaleX:1.004581
+gyroScaleY:1.003637
+gyroScaleZ:1.004739
