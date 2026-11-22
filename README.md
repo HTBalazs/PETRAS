@@ -1,6 +1,6 @@
-# PETRAS – PEbble TRAcking Sensor
+# PETRAS – PEbble TRAcking Sensor (Smart Pebble)
 
-PETRAS is an open-source smart pebble for experimental sedimentology. It is an ellipsoidal, 3D-printed pebble with an embedded inertial measurement unit (IMU). Its mass, mean density and principal moments of inertia are tuned to match a homogeneous natural pebble of the same shape, so its motion in bedload transport is *kinematically equivalent* to that of a real pebble.
+PETRAS is a smart pebble for experimental sedimentology. It is an ellipsoidal, 3D-printed pebble with an embedded inertial measurement unit (IMU). Its mass, mean density and principal moments of inertia are tuned to match a homogeneous natural pebble of the same shape, so its motion in bedload transport is *kinematically equivalent* to that of a real pebble.
 
 <p align="center">
   <img src="docs/SW.png" alt="PETRAS smart pebble" width="400">
